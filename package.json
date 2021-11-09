@@ -1,7 +1,8 @@
 {
-  "name": "flipper",
+  "name": "memo",
   "version": "0.1.0",
   "private": true,
+  "description": "https://kimiannalena.github.io/memo-card/src/",
   "dependencies": {
     "@types/jquery": "3.5.8",
     "jquery": "lts"
