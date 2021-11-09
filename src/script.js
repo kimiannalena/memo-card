@@ -25,7 +25,7 @@ window.onload = function () {
       '<div class="padded"><h2>Figures: <span>' +
       '<b>' + get('flip_won') + '</b><i>Won</i>' +
       '<b>' + get('flip_lost') + '</b><i>Lost</i>' +
-      '<b>' + get('flip_abandoned') + '</b><i>Abandoned</i></span></h2>' +
+      '<b>' + get('flip_abandoned') + '</b><i>Escaped</i></span></h2>' +
       // '<ul><li><b>Best Casual:</b> <span>' + toTime(get('flip_casual')) + '</span></li>' +
       // '<li><b>Best Medium:</b> <span>' + toTime(get('flip_medium')) + '</span></li>' +
       // '<li><b>Best Hard:</b> <span>' + toTime(get('flip_hard')) + '</span></li></ul>' +
